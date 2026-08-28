@@ -26,7 +26,6 @@ To hide a secret message inside an image using Python steganography.
 <img width="1142" height="782" alt="image" src="https://github.com/user-attachments/assets/8819b757-1579-40be-a45c-82bc6435cdf5" />
 <img width="972" height="501" alt="image" src="https://github.com/user-attachments/assets/bee8b4af-a46b-4cc7-af3c-59fede16e292" />
 
-
 ## Result
 The secret message was successfully hidden inside the image.
 
